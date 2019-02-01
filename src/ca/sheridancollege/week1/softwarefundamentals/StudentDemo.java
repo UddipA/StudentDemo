@@ -16,6 +16,7 @@ public class StudentDemo
   private String hello;
   private String something;
   private String demo;
+  private int i;
   
   /**
    * A constructor to pass in the given ID and then name
